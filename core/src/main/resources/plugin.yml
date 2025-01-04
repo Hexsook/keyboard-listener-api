@@ -1,0 +1,5 @@
+main: "me.hexsook.kblapi.KBLPlugin"
+name: "KeyboardListenerAPI"
+version: "1.0"
+api-version: "1.13"
+author: "Hexsook"
