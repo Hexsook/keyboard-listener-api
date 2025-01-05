@@ -6,15 +6,19 @@
 <h3 align="center">
   KeyboardListenerAPI
 </h3>
-KeyboardListenerAPI is designed to simplify the monitoring method of the original key. Through a short registration 
-statement, developers can easily monitor what key the player presses. However, due to the limitations of the server, 
-KBLAPI can only monitor a few specific keys through the events associated with Bukkit keys.
+KeyboardListenerAPI is designed to simplify the listening method of the original key. Through a short registration 
+statement, developers can easily listen what key the player presses. However, due to the limitations of the server, 
+KBLAPI can only listen a few specific keys through the events associated with Bukkit keys.
 
 **This plugin currently only acts as an API interface. Unless other plugins require this plugin as a dependency, the plugin itself will not perform any operations**
 
 #### Useful links
-* **Release Page** - release page for the plugin. (Unlinked)
-* **Downloads** - Download the latest version. (Unlinked)
+* **Release Page** - release page for the plugin.
+  * [**SpigotMC**](https://www.spigotmc.org/resources/keyboardlistenerapi.121733/) 
+  * [**MineBBS**](https://www.minebbs.com/resources/keyboardlistenerapi.10168/)
+* **Downloads** - Download the latest version.
+  * [**SpigotMC**](https://www.spigotmc.org/resources/keyboardlistenerapi.121733/history) 
+  * [**MineBBS**](https://www.minebbs.com/resources/keyboardlistenerapi.10168/download)
 
 ### 📥 How to install KeyboardListenerAPI to your server?
 KeyboardListenerAPI runs on **Spigot/Paper 1.13+** servers and requires **Java 11** or above.
