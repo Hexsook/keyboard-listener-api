@@ -1,6 +1,6 @@
-package me.hexsook.kblapi;
+package io.github.hexsook.kblapi;
 
-import me.hexsook.kblapi.api.KeyboardListenerAPI;
+import io.github.hexsook.kblapi.api.KeyboardListenerAPI;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class KBLPlugin extends JavaPlugin {

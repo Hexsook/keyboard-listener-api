@@ -1,4 +1,4 @@
-package me.hexsook.kblapi.api;
+package io.github.hexsook.kblapi.api;
 
 import org.bukkit.plugin.Plugin;
 

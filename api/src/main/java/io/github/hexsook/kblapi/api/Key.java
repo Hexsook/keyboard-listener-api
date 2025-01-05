@@ -1,4 +1,4 @@
-package me.hexsook.kblapi.api;
+package io.github.hexsook.kblapi.api;
 
 public enum Key {
 

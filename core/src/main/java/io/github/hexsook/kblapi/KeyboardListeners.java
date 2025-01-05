@@ -1,9 +1,9 @@
-package me.hexsook.kblapi;
+package io.github.hexsook.kblapi;
 
-import me.hexsook.kblapi.api.Key;
-import me.hexsook.kblapi.api.KeyListenerRegistry;
-import me.hexsook.kblapi.api.KeyboardListener;
-import me.hexsook.kblapi.api.PluginKeyListenerRegistry;
+import io.github.hexsook.kblapi.api.Key;
+import io.github.hexsook.kblapi.api.KeyListenerRegistry;
+import io.github.hexsook.kblapi.api.KeyboardListener;
+import io.github.hexsook.kblapi.api.PluginKeyListenerRegistry;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.EventPriority;
